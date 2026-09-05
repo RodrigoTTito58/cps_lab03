@@ -1,4 +1,4 @@
-package pe.edu.tecsup.lab03.controllers
+package pe.edu.tecsup.lab03.controllers.
 
 @Override
 public String toString() {
