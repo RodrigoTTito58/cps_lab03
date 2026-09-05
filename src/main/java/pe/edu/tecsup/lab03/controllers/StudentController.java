@@ -1,4 +1,4 @@
-package pe.edu.tecsup.lab03.controllers;
-
-public class StudentController {
+@Override
+public String toString() {
+    return "Student{id=" + id + ", nombre='" + nombre + "', apellido='" + apellido + "'}";
 }
